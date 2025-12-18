@@ -1,6 +1,7 @@
 Task 6: Password Strength Analysis
 
 📌 Objective
+
 The objective of this task is to understand what makes a password strong and how password complexity affects security. This task involves creating multiple passwords with varying complexity and evaluating their strength using password strength checking tools.
 
 ---
@@ -55,6 +56,7 @@ These attacks exploit weak, reused, or predictable passwords.
 ---
 
 📌 Outcome
+
 This task helped in understanding how password complexity improves security and protects systems against common password attacks. Strong password practices are essential for secure authentication.
 
 ---
